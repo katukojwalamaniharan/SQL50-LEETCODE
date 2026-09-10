@@ -5,4 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/katukojwalamaniharan/SQL50-LEETCODE/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/katukojwalamaniharan/SQL50-LEETCODE/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/katukojwalamaniharan/SQL50-LEETCODE/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/katukojwalamaniharan/SQL50-LEETCODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
